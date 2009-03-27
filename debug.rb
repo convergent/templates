@@ -1,0 +1,2 @@
+# gem 'josevalim-rails-footnotes',  :lib => 'rails-footnotes', :source => 'http://gems.github.com'
+plugin 'rails-footnotes', :git => 'git://github.com/josevalim/rails-footnotes.git', :submodule => true
